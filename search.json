@@ -4,29 +4,20 @@
     "href": "index.html",
     "title": "Sailesh",
     "section": "",
-    "text": "Hi, I’m Sailesh Panda, a second-year M.tech student specializing in Artificial Intelligence at IIT Gandhinagar. My interests lie in Natural Language Processing, Machine Learning, and Reinforcement Learning. I love exploring the intersection of technology and human language to create impactful AI solutions.",
-    "crumbs": [
-      "Home"
-    ]
+    "text": "Hi, I’m Sailesh Panda, a second-year M.tech student specializing in Artificial Intelligence at IIT Gandhinagar. My interests lie in Natural Language Processing, Machine Learning, and Reinforcement Learning. I love exploring the intersection of technology and human language to create impactful AI solutions."
   },
   {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations",
-    "crumbs": [
-      "Schedule"
-    ]
+    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
   },
   {
     "objectID": "materials.html",
     "href": "materials.html",
     "title": "Course Materials",
     "section": "",
-    "text": "Datasets\nSlides",
-    "crumbs": [
-      "Materials"
-    ]
+    "text": "Datasets\nSlides"
   }
 ]
