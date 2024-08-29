@@ -1,5 +1,26 @@
 ---
-title: "Course Title"
+title: Sailesh
+image: images/sailesh.jpeg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/SaileshP97
+    - icon: github
+      text: Github
+      href: https://github.com/SaileshP97
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sailesh-panda-a70b61170/
+    - icon: envelope
+      text: Email
+      href: mailto:sailesh.panda1997@gmail.com
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.co.in/citations?view_op=new_profile&hl=en   
 ---
 
-Course info & details here
+Hi, I'm Sailesh Panda, a second-year M.tech student specializing in Artificial Intelligence at IIT Gandhinagar. My interests lie in Natural Language Processing, Machine Learning, and Reinforcement Learning. I love exploring the intersection of technology and human language to create impactful AI solutions.
