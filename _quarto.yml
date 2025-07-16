@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Nipun Batra"
+  title: "Sailesh Panda"
   navbar:
     right:
       - href: index.qmd
